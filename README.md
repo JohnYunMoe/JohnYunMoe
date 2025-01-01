@@ -1,5 +1,5 @@
 ## Hey I'm John 👋
-** :mortar_board: I'm a third year student at New York University Abu Dhabi. I'm majoring in computer science with a minor in sound and music computing.
+:mortar_board: ** I'm a third year student at New York University Abu Dhabi. I'm majoring in computer science with a minor in sound and music computing.
 
 Here are some things I'm doing right now:
 
