@@ -10,9 +10,9 @@ Here are some things I'm doing right now:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/john-yun-moe-a2b152230/)
 
 ### Technologies I'm Familliar With
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
- <p>
-    <i class="devicon-python-plain-wordmark"></i>
- </p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</p>
+
 
 
