@@ -19,7 +19,7 @@ Here are some things I'm doing right now:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style = "height:70px;width:70px" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style = "height:70px;width:70px" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style = "height:70px;width:70px" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-line-wordmark.svg" style = "height:70px;width:70px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style = "height:70px;width:70px" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style = "height:70px;width:70px" />
 </div>
 
