@@ -1,6 +1,5 @@
 ## Hey I'm John 👋
 :mortar_board:**I'm a third year student at New York University Abu Dhabi majoring in computer science with a minor in sound and music computing.**
-# :exclamation: I’m looking for an internship related to Software Engineering, Game Development or Music for the summer. 
 Here are some things I'm doing right now:
 
 - 🔭 I’m currently working on an interactive portfolio website using 3js.
@@ -21,6 +20,9 @@ Here are some things I'm doing right now:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style = "height:70px;width:70px" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style = "height:70px;width:70px" />
 </div>
+
+# :exclamation: I’m looking for an internship related to Software Engineering, Game Development or Music for the summer. 
+
 
 
 
