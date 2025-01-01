@@ -11,7 +11,8 @@ Here are some things I'm doing right now:
 
 ### Technologies I'm Familliar With
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style = "height:100px;width:100px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style = "height:70px;width:70px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" style = "height:70px;width:70px"/>
 </div>
 
 
