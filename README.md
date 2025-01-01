@@ -9,13 +9,7 @@ Here are some things I'm doing right now:
 - 💬 Ask me about help on college applications and academic writing.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/john-yun-moe-a2b152230/)
 
-## Technologies
+### Technologies I'm Familliar With
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./img/python.svg" width="36" height="36" alt="Python" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./img/html-5.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./img/css-3.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./img/javascript.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./img/react.svg" width="36" height="36" alt="React" /></a> &nbsp;
-</p>
+
 
