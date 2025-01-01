@@ -1,7 +1,7 @@
 ## Hey I'm John 👋
 :mortar_board:**I'm a third year student at New York University Abu Dhabi majoring in computer science with a minor in sound and music computing.**
 
-### *****:bangbang:Currently looking for an internship related to Software Engineering, Game Development or Music for the summer.*****
+### *****:bangbang:Currently looking for an internship related to SWE/GameDev/Music for the summer.*****
 
 Here are some things I'm doing right now:
 
